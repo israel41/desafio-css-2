@@ -1,0 +1,174 @@
+
+body{
+    font-family: 'Roboto';
+    
+
+}
+
+
+
+
+.conteiner1{
+   
+    background-color: #F9F9F9;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 24px;
+    gap: 32px;
+    height: 56px;
+    
+    
+}
+
+.menu{
+    
+    flex-direction: row;   
+    display: flex;
+    gap: 30px;
+
+}
+
+
+.pesquisa{
+    display: flex;
+    align-items: center;
+}
+
+input{
+    box-sizing: border-box; 
+    border: 1px solid #CCCCCC;
+    height: 30px;
+    width: 250px;
+  
+}
+
+button{
+    border: 1px solid #CCCCCC;
+    height: 30px;
+}
+
+.sino{    
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+
+
+.conteiner2{
+    display: flex;
+    align-items: inherit;
+    justify-content: space-between;
+}
+
+.conteiner3{
+    display: block;
+    padding: 10px 20px 60px 50px;
+    gap: 16px;
+    width: 952px;
+    height: 746px;
+    left: 75px;
+    top: 84px;
+
+}
+
+
+
+h1{
+    
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.abaixo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+}
+.button2{
+    background-image: url("/imagem/2/Subscribe\ Button.png");
+    width: 159px;
+    height: 40px;
+}
+
+.buttonlike{
+    background-image: url("/imagem/2/thumbs-up.png");
+    background-size: cover;
+    width: 24px;
+    height: 24px;
+    left: 403px;
+    top: 9px;
+    
+}
+
+.buttondeslike{
+    background-image: url("/imagem/2/thumbs-down.png");    
+    width: 24px;
+    height: 24px;
+    left: 508px;
+    top: 9px;
+
+}
+
+.compartilhar{
+    background-image: url("/imagem/2/Share.png");
+    width: 115px;
+    height: 24px;
+
+}
+
+.download{
+    background-image: url("/imagem/2/Download.png");
+    width: 115px;
+    height: 24px;
+    background-size: cover;
+    
+    
+    
+}
+
+.data{
+    width: 391px;
+    height: 16px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+    
+}
+
+.p1{
+    width: 510px;
+    height: 64px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #515151;
+}
+
+.conteiner4{
+       
+    padding: 0px;
+    width: 400px;
+    display: block;
+    padding: 10px 0px 40px 0px;
+
+
+}
+
+
+
